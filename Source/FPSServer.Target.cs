@@ -9,6 +9,6 @@ public class FPSServerTarget : TargetRules
 	{
 		Type = TargetType.Server;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.Add("FPSServer");
+		ExtraModuleNames.Add("FPS");
 	}
 }
